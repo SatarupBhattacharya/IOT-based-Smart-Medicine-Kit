@@ -3,8 +3,8 @@
 #include <Wire.h>
 #include <RTClib.h>
 
-const char* ssid = "realme P1 5G";
-const char* pass = "Qwer1234";
+const char* ssid = "********";
+const char* pass = "********";
 IPAddress local_IP(10,148,142,126);
 IPAddress gateway(10,148,142,1);
 IPAddress subnet(255,255,255,0);
